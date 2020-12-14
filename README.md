@@ -3,4 +3,7 @@
    
    
    具体请关注公众号：
+   
+   
+   
  ![image](https://github.com/multimedia-advanced-org/CreateGLContextNoDisplay/blob/main/qrcode.bmp)
